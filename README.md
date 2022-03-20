@@ -1,6 +1,6 @@
 ### Hi there I'm Jonathan 👋
 
- - 👨🏻‍💻 I'm an Informatics student in fourth grade.
+ - 👨🏻‍💻 I'm an Informatics student in fifth grade.
  - 🎹 My hobbies are playing piano/keyboards and programming.
  - 💻 My main projects are:
      - midi-cube - a C++ based Synthesizer intened as a standalone synth installed on a hardware PC (https://github.com/JonathanDotExe/midi-cube)
