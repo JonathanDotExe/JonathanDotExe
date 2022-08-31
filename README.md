@@ -1,6 +1,7 @@
 ### Hi there I'm Jonathan 👋
 
- - 👨🏻‍💻 I'm an Informatics student in fifth grade.
+ - 👨🏻‍💻 I'm a graduate at the HTL Perg for IT.
+ - 🎂 I'm 19 years old
  - 🎹 My hobbies are playing piano/keyboards and programming.
  - 💻 My main projects are:
      - midi-cube - a C++ based Synthesizer intened as a standalone synth installed on a hardware PC (https://github.com/JonathanDotExe/midi-cube)
